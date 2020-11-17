@@ -30,4 +30,6 @@ function draw() {
     }
   } 
   drawSprites();
+  textSize(30)
+  text(deformation,200,50)
 }
